@@ -24,6 +24,5 @@
 ### 🧰 Frameworks and Libraries
 
 
-![Next](https://img.shields.io/badge/NEXT-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-f72c1f?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
