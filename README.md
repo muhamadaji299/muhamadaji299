@@ -2,7 +2,7 @@
 <h2>Hi,Friends! 👋</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mochamadhaikal&label=Profile%20views&color=ff69b4&style=flat" alt="mochamadhaikal" />
+  <img src="https://komarev.com/ghpvc/?username=mmuhamadaji299&label=Profile%20views&color=ff69b4&style=flat" alt="mochamadhaikal" />
 </p>
 
 ---
