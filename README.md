@@ -1,28 +1,35 @@
 <!-- Gambar dan Judul -->
 <h2>Hi,Friends! 👋</h2>
 
+![Ajisaputra](img/image.png)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mmuhamadaji299&label=Profile%20views&color=ff69b4&style=flat" alt="mochamadhaikal" />
 </p>
 
 ---
 
-🧠 Saya Seorang Software Engginer<br>
-🌱 Saya Belajar Web Developer Dan Desain Ui/UX<br>
-🚩 Saya Tertarik dengan WEb Developer Dan Desain Ui/UX
+#### 🖥️ Programming Skills
+
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,figma,laravel,tailwind)](https://skillicons.dev)
 
 ---
 
-### 🖥️ Programming Languages
+#### 🙂 Conect with me
 
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
-
-### 🧰 Frameworks and Libraries
-
-
-![Laravel](https://img.shields.io/badge/Laravel-f72c1f?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
