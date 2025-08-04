@@ -27,6 +27,9 @@
   <a href="https://github.com/muhamadaji299">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="www/gmail/majis1802@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
