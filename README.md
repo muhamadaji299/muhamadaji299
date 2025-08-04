@@ -11,7 +11,7 @@
 
 #### 🖥️ Programming Skills
 
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,figma,laravel,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,html,figma,laravel,tailwind)](https://skillicons.dev)
 
 ---
 
