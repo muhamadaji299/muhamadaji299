@@ -18,17 +18,14 @@
 #### 🙂 Conect with me
 
 <p>
-  <a href="https://skillicons.dev">
+  <a href="https://www.instagram.com/jii_sptr4/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/muhamad-aji-saputra-43b096307/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/muhamadaji299">
     <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
